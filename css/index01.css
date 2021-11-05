@@ -26,7 +26,7 @@ header {
     line-height: 70px;
     display: inline-block;
     /* background-color: darkcyan; */
-    border-bottom: 1px solid rgba(85, 85, 85, .2);
+    /* border-bottom: 1px solid rgba(85, 85, 85, .2); */
     position: absolute;
     top: 0;
     left: 0;
@@ -826,7 +826,7 @@ footer .text02 p span {
         display: none;
     }
     .cont03 div img {
-        padding-top: 21%;
+        padding-top: 22%;
     }
     .cont04 h3 {
         font-size: 25px;
